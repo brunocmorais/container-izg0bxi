@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Oct 15 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@brunocmorais](https://github.com/brunocmorais))
+
+#### Authors: 1
+
+- Bruno Costa de Morais ([@brunocmorais](https://github.com/brunocmorais))
+
+---
+
 # v0.0.1 (Sun Oct 15 2023)
 
 :tada: This release contains work from a new contributor! :tada:
